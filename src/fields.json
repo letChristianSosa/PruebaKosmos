@@ -1,0 +1,26 @@
+[
+  {
+    "component": "text",
+    "label": "First Name",
+    "type": "text",
+    "_uid": "5b9b"
+  },
+  {
+    "component": "text",
+    "label": "Last Name",
+    "type": "text",
+    "_uid": "5b21"
+  },
+  {
+    "component": "select",
+    "label": "Select",
+    "type": "select",
+    "_uid": "1234"
+  },
+  {
+    "component": "radio",
+    "label": "Radio",
+    "type": "radio",
+    "_uid": "1235"
+  }
+]
