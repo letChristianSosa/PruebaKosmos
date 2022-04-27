@@ -22,5 +22,11 @@
     "label": "Radio",
     "type": "radio",
     "_uid": "1235"
+  },
+  {
+    "component": "date",
+    "label": "Date",
+    "type": "date",
+    "_uid": "1223"
   }
 ]

@@ -27,9 +27,11 @@ function App() {
   };
 
   return (
-    <div className="bg-gray-200">
+    <div>
       <div className="container mx-auto">
-        <h1 className=" text-3xl text-center mb-4">Kosmos Test</h1>
+        <h1 className="mt-5 p-2 text-5xl w-1/2 mx-auto text-center mb-4 uppercase bg-white rounded-md">
+          Kosmos Test
+        </h1>
         <div className="md:grid md:grid-cols-2 mt-12 gap-10">
           <FieldsList fields={Fields} selectField={selectField} />
           <Form selectedFields={selectedFields} removeField={removeField} />
